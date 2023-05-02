@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmartin5&count_private=true)
 <!--
 **nmartin5/nmartin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" alt="nmartin5' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nmartin5&show_icons=true&theme=city_lights&count_private=true" />
